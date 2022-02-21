@@ -1,6 +1,6 @@
 div {
-    width: 50vw;
     height: 200px;
+    text-align: center;
 }
 
 img {
@@ -17,9 +17,16 @@ h1 {
     background-color: darkcyan;
     padding: 50px;
     border: 10px solid darkturquoise;
+    margin: 0 auto;
 }
 
 #spanId {
     font-size: 18px;
     margin: 50px;
 }
+
+ body {
+    background-image: url(https://c.pxhere.com/images/c1/2f/efc9071f43da3a9ee7bc45f9e114-1602890.jpg!d);
+    background-size: cover;
+ }
+
